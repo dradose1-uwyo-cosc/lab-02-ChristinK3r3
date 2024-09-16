@@ -1,6 +1,6 @@
-# [Name]
+# [Christin Kere]
 ## [Assignment #]
-## [Submission date: MM/DD/YY]
+## [Submission date: 09/16/2024]
 ## Worked with/sources 
 * example
 * example
